@@ -1,0 +1,6 @@
+1.- nuevo componente agregar
+2.- <h3 agregar hasta </form>
+3.- mover nuevo, agregar()
+4.- @input personajes
+5.- @input nuevo
+6.- <app-agregar [nuevo]="nuevo">
